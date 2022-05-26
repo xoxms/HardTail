@@ -31,7 +31,7 @@ After that you could run `pnpm dev` or `yarn dev` to start the development serve
 
 # Features
 
-- [x] A dark mode theme support
+- [ ] A dark mode theme support
 - [x] A basic modal component
 - [ ] Customizable error page
 - [x] Responsive design out of the box
